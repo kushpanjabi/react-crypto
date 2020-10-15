@@ -11,7 +11,7 @@ http://cryptoticker-react.herokuapp.com/
 React, NodeJS
 
 ## How It Works
-![mov of app](./src/img/CryptoGif.mov)
+![mov of app](./src/img/CryptoGif.gif)
 
 
 
