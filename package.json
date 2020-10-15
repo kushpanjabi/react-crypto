@@ -6,10 +6,12 @@
     "react-scripts": "1.1.0"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-router-dom": "^4.2.2"
+    "react-router-dom": "^4.2.2",
+    "serve": "^11.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
